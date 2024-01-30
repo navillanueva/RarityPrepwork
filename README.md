@@ -4,7 +4,7 @@ This repository contains 10 projects completed as preperation work before starti
 
 ## Blockchain and Smart Contract Projects Summary
 
-1. **NFT Purchase with ERC20 Tokens [ERC721}**  
+1. **NFT Purchase with ERC20 Tokens [erc721]**  
    Build a classic NFT that can be minted exclusively using a specific ERC20 token.
 
 2. **Time Unlocked ERC20/Vesting Contract**  
